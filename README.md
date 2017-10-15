@@ -7,7 +7,9 @@ Let's start a good cause together, I know this project might never see the dayli
 
 
 GitHub: https://github.com/qjawe/somecoins
+
 Gitter: https://goo.gl/PynJS1
+
 Bitcoin Talk Forum: https://bitcointalk.org/index.php?topic=2273303.msg23047920#msg23047920
 
 
