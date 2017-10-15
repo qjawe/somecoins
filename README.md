@@ -15,7 +15,9 @@ Bitcoin Talk Forum: https://bitcointalk.org/index.php?topic=2273303.msg23047920#
 
 
 About me: http://qjawe.com/onename
+
 PGP Fingerprints & Public Key: D66F AA62 9458 2076 D917 0EF9 1B12 40F8 D733 23FE
+
 PGP Keys: https://pgp.mit.edu/pks/lookup?op=get&search=0x1B1240F8D73323FE
 
 Similar examples of Charity Coins: https://goo.gl/WJePzr
